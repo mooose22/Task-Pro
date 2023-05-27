@@ -1,4 +1,4 @@
-TaskTrain is a simple task tracker built with Ruby on Rails and React
+TaskPro is a task tracker built with Ruby on Rails and React
 
 ## Prerequisites
 

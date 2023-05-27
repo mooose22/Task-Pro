@@ -24,7 +24,7 @@ This section will guide you through setting up and running this repository on yo
   ```
 - Navigate to the project folder
   ```
-  cd TaskTrain
+  cd Task-pro
   ```
 - To interact with the front-end part of the application, navigate to the `client` folder
   ```

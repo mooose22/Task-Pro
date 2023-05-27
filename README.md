@@ -20,7 +20,7 @@ This section will guide you through setting up and running this repository on yo
 
 - Clone the repository
   ```
-  git clone https://github.com/mooose22/TaskPro.git
+  git clone https://github.com/mooose22/Task-Pro.git
   ```
 - Navigate to the project folder
   ```
